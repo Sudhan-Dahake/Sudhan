@@ -16,7 +16,7 @@
 
 <img src="./icons/python.png" alt="python" width="50rem" height="50rem" />
 <img src="./icons/c.png" alt="c" width="50rem" height="50rem" />
-<img src="./icons/cpp.png" alt="C++" width="50rem" height="50rem" />
+<img src="./icons/cpp.png" alt="C++" width="50rem" height="70rem" />
 <img src="./icons/Csharp_Logo.png" alt="C#" width="100rem" height="50rem" />
 <img src="./icons/java.png" alt="java" width="50rem" height="50rem" />
 <img src="./icons/R_logo.svg" alt="R" width="50rem" height="50rem" />
