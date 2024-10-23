@@ -30,9 +30,7 @@
 <img src="./icons/pandas.png" alt="pandas" width="50rem" height="50rem" />
 <img src="./icons/Selenium_Logo.png" alt="Selenium" width="50rem" height="50rem" />
 <img src="./icons/GoogleColab.png" alt="GoogleColab" width="50rem" height="50rem" />
-<img src="./icons/jupyter.png" alt="jupyter" width="50rem" height="50rem" />
 <img src="./icons/sklearn.png" alt="sklearn" width="50rem" height="50rem" />
-<img src="./icons/kaggle.png" alt="kaggle" width="50rem" height="50rem" />
 <img src="./icons/power-bi-icon.png" alt="PowerBI" width="50rem" height="50rem" />
 <img src="./icons/Visual_Studio_Icon_2022.svg" alt="VisualStudio" width="50rem" height="50rem" />
 <img src="./icons/VSCode.png" alt="VSCode" width="50rem" height="50rem" />
