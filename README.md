@@ -51,7 +51,6 @@
 
 - [Mini-GPT](https://github.com/Sudhan-Dahake/Mini-GPT)
 - [Name Synthesizer](https://github.com/Sudhan-Dahake/WaveNet-NameSynth)
-- [Swapify](https://github.com/Sudhan-Dahake/Swapify)
 
 </br>
 
