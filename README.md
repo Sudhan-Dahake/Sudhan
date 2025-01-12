@@ -49,8 +49,8 @@
 
 ## Recent Open-Source Personal projects : 🚀
 
+- [HotkeyHive](https://github.com/Sudhan-Dahake/HotkeyHive)
 - [Mini-GPT](https://github.com/Sudhan-Dahake/Mini-GPT)
-- [Name Synthesizer](https://github.com/Sudhan-Dahake/WaveNet-NameSynth)
 
 </br>
 
